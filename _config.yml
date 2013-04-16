@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yinzcode.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://yinzcode.com
+title: Yinz Code?
+subtitle: Just some Pittsburghers who like to write software.
+author: YinzCode
 simple_search: http://google.com/search
 description:
 
